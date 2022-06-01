@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T02:15:55.168Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="WhEsSvlSzxj31hnRsTeT" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-01T03:43:56.312Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="M5YS-_A-uJQ2W7CPWrlT" version="18.2.0" type="github">
   <diagram id="wAR2DOUIs-VTIgWboL5i" name="Page-1">
-    <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           <mxGeometry x="153.9" y="140" width="276.59" height="130" as="geometry" />
         </mxCell>
         <mxCell id="SCkvb4-ZKAok-P7m5pzq-8" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.aws_s3" vertex="1" parent="1">
-          <mxGeometry x="154" y="40" width="61.6" height="57.6" as="geometry" />
+          <mxGeometry x="70" y="341.2" width="61.6" height="57.6" as="geometry" />
         </mxCell>
         <mxCell id="SCkvb4-ZKAok-P7m5pzq-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#8F8F8F;strokeWidth=3;" edge="1" parent="1" source="SCkvb4-ZKAok-P7m5pzq-10" target="SCkvb4-ZKAok-P7m5pzq-1">
           <mxGeometry relative="1" as="geometry" />
@@ -38,6 +38,42 @@
           <mxGeometry y="0.5" width="32" height="32" relative="1" as="geometry">
             <mxPoint x="5" y="-16" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SCkvb4-ZKAok-P7m5pzq-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#8F8F8F;strokeWidth=3;" edge="1" parent="1" source="SCkvb4-ZKAok-P7m5pzq-18" target="SCkvb4-ZKAok-P7m5pzq-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SCkvb4-ZKAok-P7m5pzq-18" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.application_load_balancer;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="321.96" width="99" height="96.08" as="geometry" />
+        </mxCell>
+        <mxCell id="SCkvb4-ZKAok-P7m5pzq-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeColor=#8F8F8F;strokeWidth=3;" edge="1" parent="1" source="SCkvb4-ZKAok-P7m5pzq-19" target="SCkvb4-ZKAok-P7m5pzq-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SCkvb4-ZKAok-P7m5pzq-19" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.aws_s3" vertex="1" parent="1">
+          <mxGeometry x="70" y="176.2" width="61.6" height="57.6" as="geometry" />
+        </mxCell>
+        <mxCell id="SCkvb4-ZKAok-P7m5pzq-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeColor=#8F8F8F;strokeWidth=3;" edge="1" parent="1" source="SCkvb4-ZKAok-P7m5pzq-20" target="SCkvb4-ZKAok-P7m5pzq-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SCkvb4-ZKAok-P7m5pzq-20" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.aws_s3" vertex="1" parent="1">
+          <mxGeometry x="70" y="486.2" width="61.6" height="57.6" as="geometry" />
+        </mxCell>
+        <mxCell id="SCkvb4-ZKAok-P7m5pzq-25" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#10739E;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-67.8" y="585" width="70" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="SCkvb4-ZKAok-P7m5pzq-26" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#F2931E;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-67.8" y="699" width="70" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="SCkvb4-ZKAok-P7m5pzq-27" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#AE4132;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-67.8" y="824" width="70" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="SCkvb4-ZKAok-P7m5pzq-30" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#10739E&quot;&gt;&lt;b&gt;Tyk.io&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(40, 40, 40); text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Tyk es una puerta de enlace de API de código abierto y una plataforma de gestión que ofrece aplicaciones locales, en la nube/multinube y empresariales.&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start;&quot; class=&quot;description has-overflow&quot;&gt;&lt;p style=&quot;margin-top: 0px; margin-bottom: 0px; display: inline;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 10px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 10px;&quot;&gt;Ya se trate de microservicios, Smart Cities, IoT o datos abiertos, están en un&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;/span&gt;&lt;span style=&quot;display: inline; font-family: Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start;&quot; class=&quot;overflow-description ng-star-inserted&quot;&gt;&lt;p style=&quot;margin-top: 0px; display: inline;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 10px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 10px;&quot; class=&quot;&quot;&gt;tiene la misión de conectar todos los sistemas del mundo a través de una ingeniería eficiente y finamente diseñada.&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="32.2" y="585" width="620" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="SCkvb4-ZKAok-P7m5pzq-31" value="&lt;p&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#F2931E&quot;&gt;&lt;b&gt;Kong&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;p style=&quot;box-sizing: inherit; overflow-wrap: break-word; margin: 0px 0px 10px; color: rgb(58, 58, 58); text-align: start;&quot;&gt;&lt;span style=&quot;box-sizing: inherit; font-weight: 700;&quot;&gt;Kong es un API Gateway open source escrito en Lua&lt;/span&gt;. Se ha c&lt;span style=&quot;box-sizing: inherit; font-weight: 700;&quot;&gt;reado sobre Nginx&lt;/span&gt;, y expone un API Rest que puede ser usada para gestionar nuestra infraestructura de una manera dinámica. Kong nos va a permitir securizar nuestra Arquitectura, siendo la primera barrera, delegando así la securización en Kong en lugar de bajarlo a los microservicios; obtener logs y métricas, tener un punto único para nuestras APIs&lt;/p&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="32.2" y="699" width="620" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="SCkvb4-ZKAok-P7m5pzq-32" value="&lt;p&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#AE4132&quot;&gt;&lt;b&gt;KrakenD&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#050505&quot;&gt;KrakenD es el API gateway más rápido con agregación de microservicios (BFF) y conectividad de servicios (pub/sub, colas, gRPC, etc) diseñado para gran escala.&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="32.2" y="825" width="620" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
