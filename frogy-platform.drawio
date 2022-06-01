@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T06:01:21.708Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="esopw_17OoZHfU8zdsoH" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-01T06:07:17.230Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="CWPu1Bh-i8DGvlg2BuF4" version="18.2.0" type="github">
   <diagram id="wAR2DOUIs-VTIgWboL5i" name="Page-1">
     <mxGraphModel dx="2249" dy="1932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,20 +39,23 @@
             <mxPoint x="5" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SCkvb4-ZKAok-P7m5pzq-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#8F8F8F;strokeWidth=3;" parent="1" source="SCkvb4-ZKAok-P7m5pzq-18" target="SCkvb4-ZKAok-P7m5pzq-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="SCkvb4-ZKAok-P7m5pzq-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#8F8F8F;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Me_EQh-9EzfCo79dDadO-17" target="SCkvb4-ZKAok-P7m5pzq-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-41" y="370.0999999999999" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="SCkvb4-ZKAok-P7m5pzq-18" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.application_load_balancer;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-140" y="321.96" width="99" height="96.08" as="geometry" />
-        </mxCell>
-        <mxCell id="SCkvb4-ZKAok-P7m5pzq-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeColor=#8F8F8F;strokeWidth=3;" parent="1" source="SCkvb4-ZKAok-P7m5pzq-19" target="SCkvb4-ZKAok-P7m5pzq-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="SCkvb4-ZKAok-P7m5pzq-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#8F8F8F;strokeWidth=3;" parent="1" source="SCkvb4-ZKAok-P7m5pzq-19" target="Me_EQh-9EzfCo79dDadO-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-41" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="SCkvb4-ZKAok-P7m5pzq-19" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.aws_s3" parent="1" vertex="1">
           <mxGeometry x="70" y="176.2" width="61.6" height="57.6" as="geometry" />
         </mxCell>
-        <mxCell id="SCkvb4-ZKAok-P7m5pzq-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeColor=#8F8F8F;strokeWidth=3;" parent="1" source="SCkvb4-ZKAok-P7m5pzq-20" target="SCkvb4-ZKAok-P7m5pzq-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="SCkvb4-ZKAok-P7m5pzq-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#8F8F8F;strokeWidth=3;" parent="1" source="SCkvb4-ZKAok-P7m5pzq-20" target="Me_EQh-9EzfCo79dDadO-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-41" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="SCkvb4-ZKAok-P7m5pzq-20" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.aws_s3" parent="1" vertex="1">
           <mxGeometry x="70" y="486.2" width="61.6" height="57.6" as="geometry" />
@@ -86,6 +89,18 @@
         </mxCell>
         <mxCell id="Me_EQh-9EzfCo79dDadO-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://moss.sh/wp-content/uploads/upcloud_logo-1.png;" vertex="1" parent="1">
           <mxGeometry x="1590" y="-77" width="184.4" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Me_EQh-9EzfCo79dDadO-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://linube.com/blog/wp-content/uploads/ssl-lets-encrypt.png;" vertex="1" parent="1">
+          <mxGeometry x="-285.46000000000004" y="240" width="232.84" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Me_EQh-9EzfCo79dDadO-17" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://matob.web.id/random/wp-content/uploads/sites/2/2021/12/Nginx-Logo.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-289.04" y="312.07" width="240" height="115.85" as="geometry" />
+        </mxCell>
+        <mxCell id="Me_EQh-9EzfCo79dDadO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=10;" edge="1" parent="1" source="Me_EQh-9EzfCo79dDadO-18" target="Me_EQh-9EzfCo79dDadO-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Me_EQh-9EzfCo79dDadO-18" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.application_load_balancer;fillColor=#F58536;gradientColor=none;fontFamily=Helvetica;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="334.08" width="69" height="72" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
