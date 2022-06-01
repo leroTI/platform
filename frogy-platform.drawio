@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T04:35:58.495Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="mxaU1iZ2rmtg7YREXi3B" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-01T05:18:43.272Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="eWwqNeh3Hnz4-CEED1Hj" version="18.2.0" type="github">
   <diagram id="wAR2DOUIs-VTIgWboL5i" name="Page-1">
-    <mxGraphModel dx="2249" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="1932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,6 +80,9 @@
         </mxCell>
         <mxCell id="Me_EQh-9EzfCo79dDadO-10" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#12AAB5&quot;&gt;&lt;b&gt;Label&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-weight: 700; font-stretch: inherit; line-height: inherit; vertical-align: baseline; text-align: start;&quot;&gt;Keycloak es un producto&lt;/span&gt;&lt;span style=&quot;text-align: start;&quot;&gt;&amp;nbsp;de software de código abierto que&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-weight: 700; font-stretch: inherit; line-height: inherit; vertical-align: baseline; text-align: start;&quot;&gt;&amp;nbsp;permite el inicio de sesión único (IdP) con Identity Management y Access Management&lt;/span&gt;&lt;span style=&quot;text-align: start;&quot;&gt;&amp;nbsp;para aplicaciones y servicios modernos. Este software está escrito en Java y&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-weight: 700; font-stretch: inherit; line-height: inherit; vertical-align: baseline; text-align: start;&quot;&gt;&amp;nbsp;es compatible de forma predeterminada con los protocolos de federación de identidad&lt;/span&gt;&lt;span style=&quot;text-align: start;&quot;&gt;&amp;nbsp;SAML v2 y OpenID Connect (OIDC) / OAuth2. Está bajo licencia de Apache y es compatible con Red Hat.&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="770" y="20" width="510" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Me_EQh-9EzfCo79dDadO-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://blog.ovhcloud.com/wp-content/uploads/2021/09/ovhcloud.jpg;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="-100" width="192" height="96" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
