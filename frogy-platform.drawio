@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-04T01:29:56.271Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="NmJMxbZEvtdWb-DbbqIb" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-04T05:21:43.268Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="tbAE0n-_rLVzt-b66byq" version="18.2.0" type="github">
   <diagram id="wAR2DOUIs-VTIgWboL5i" name="Page-1">
-    <mxGraphModel dx="2249" dy="1932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4382" dy="3077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,7 +42,10 @@
         <mxCell id="SCkvb4-ZKAok-P7m5pzq-8" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.aws_s3" parent="1" vertex="1">
           <mxGeometry x="70" y="341.2" width="61.6" height="57.6" as="geometry" />
         </mxCell>
-        <mxCell id="SCkvb4-ZKAok-P7m5pzq-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#8F8F8F;strokeWidth=3;" parent="1" source="SCkvb4-ZKAok-P7m5pzq-10" target="SCkvb4-ZKAok-P7m5pzq-1" edge="1">
+        <mxCell id="SCkvb4-ZKAok-P7m5pzq-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#8F8F8F;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="DUPu_RtzXtjbze1EFHEC-19" target="SCkvb4-ZKAok-P7m5pzq-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DUPu_RtzXtjbze1EFHEC-20" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#8F8F8F;strokeWidth=3;" edge="1" parent="1" source="SCkvb4-ZKAok-P7m5pzq-10" target="DUPu_RtzXtjbze1EFHEC-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SCkvb4-ZKAok-P7m5pzq-10" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" parent="1" vertex="1">
@@ -131,26 +134,93 @@
         <mxCell id="DUPu_RtzXtjbze1EFHEC-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000marcas.net/wp-content/uploads/2021/06/Redis-Logo.png;" vertex="1" parent="1">
           <mxGeometry x="1817.2" y="140" width="90" height="56.25" as="geometry" />
         </mxCell>
-        <mxCell id="DUPu_RtzXtjbze1EFHEC-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.diegocalvo.es/wp-content/uploads/2016/05/hadoop.png;" vertex="1" parent="1">
-          <mxGeometry x="830" y="559.5" width="228.79" height="110.5" as="geometry" />
-        </mxCell>
         <mxCell id="DUPu_RtzXtjbze1EFHEC-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#8F8F8F;strokeWidth=3;" edge="1" parent="1" source="DUPu_RtzXtjbze1EFHEC-13" target="DUPu_RtzXtjbze1EFHEC-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DUPu_RtzXtjbze1EFHEC-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Elasticsearch_logo.svg/2560px-Elasticsearch_logo.svg.png;" vertex="1" parent="1">
-          <mxGeometry x="827" y="790" width="283.95" height="62.25" as="geometry" />
+          <mxGeometry x="820" y="1410.5" width="283.95" height="62.25" as="geometry" />
         </mxCell>
         <mxCell id="DUPu_RtzXtjbze1EFHEC-14" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png;" vertex="1" parent="1">
-          <mxGeometry x="840" y="670" width="190" height="98.65" as="geometry" />
+          <mxGeometry x="833" y="1290.5" width="190" height="98.65" as="geometry" />
         </mxCell>
         <mxCell id="DUPu_RtzXtjbze1EFHEC-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#8F8F8F;strokeWidth=3;" edge="1" parent="1" source="DUPu_RtzXtjbze1EFHEC-15" target="DUPu_RtzXtjbze1EFHEC-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DUPu_RtzXtjbze1EFHEC-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=http://www.bujarra.com/wp-content/uploads/2018/11/logstash1.jpg;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="788.9300000000001" width="270" height="64.39" as="geometry" />
+          <mxGeometry x="1153" y="1409.43" width="270" height="64.39" as="geometry" />
         </mxCell>
         <mxCell id="DUPu_RtzXtjbze1EFHEC-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://arquitecturaibm.com/wp-content/uploads/2019/10/kibana-logo.png;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="775.92" width="198.38" height="90.41" as="geometry" />
+          <mxGeometry x="1463" y="1396.42" width="198.38" height="90.41" as="geometry" />
+        </mxCell>
+        <mxCell id="DUPu_RtzXtjbze1EFHEC-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#8F8F8F;strokeWidth=3;" edge="1" parent="1" source="DUPu_RtzXtjbze1EFHEC-19" target="DUPu_RtzXtjbze1EFHEC-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DUPu_RtzXtjbze1EFHEC-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#8F8F8F;strokeWidth=3;" edge="1" parent="1" source="DUPu_RtzXtjbze1EFHEC-19" target="DUPu_RtzXtjbze1EFHEC-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DUPu_RtzXtjbze1EFHEC-26" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#8F8F8F;strokeWidth=3;" edge="1" parent="1" source="DUPu_RtzXtjbze1EFHEC-19" target="DUPu_RtzXtjbze1EFHEC-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="370" />
+              <mxPoint x="830" y="683" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DUPu_RtzXtjbze1EFHEC-30" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#8F8F8F;strokeWidth=3;" edge="1" parent="1" source="DUPu_RtzXtjbze1EFHEC-19" target="DUPu_RtzXtjbze1EFHEC-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="820" y="370" />
+              <mxPoint x="820" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DUPu_RtzXtjbze1EFHEC-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://restfulapi.net/wp-content/uploads/rest.png;" vertex="1" parent="1">
+          <mxGeometry x="660" y="300" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="DUPu_RtzXtjbze1EFHEC-39" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.551;entryY=-0.14;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeColor=#8F8F8F;strokeWidth=3;" edge="1" parent="1" source="DUPu_RtzXtjbze1EFHEC-21" target="DUPu_RtzXtjbze1EFHEC-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DUPu_RtzXtjbze1EFHEC-21" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="894.01" y="398.8" width="111.98" height="111.98" as="geometry" />
+        </mxCell>
+        <mxCell id="DUPu_RtzXtjbze1EFHEC-40" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#8F8F8F;strokeWidth=3;" edge="1" parent="1" source="DUPu_RtzXtjbze1EFHEC-22" target="DUPu_RtzXtjbze1EFHEC-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DUPu_RtzXtjbze1EFHEC-22" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png;" vertex="1" parent="1">
+          <mxGeometry x="880" y="530" width="240" height="86.77" as="geometry" />
+        </mxCell>
+        <mxCell id="DUPu_RtzXtjbze1EFHEC-42" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#8F8F8F;strokeWidth=3;" edge="1" parent="1" source="DUPu_RtzXtjbze1EFHEC-25" target="DUPu_RtzXtjbze1EFHEC-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DUPu_RtzXtjbze1EFHEC-25" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cleventy.com/wp-content/uploads/2020/05/spring-boot.png;" vertex="1" parent="1">
+          <mxGeometry x="894.01" y="630" width="200" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="DUPu_RtzXtjbze1EFHEC-43" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#8F8F8F;strokeWidth=3;" edge="1" parent="1" source="DUPu_RtzXtjbze1EFHEC-28" target="DUPu_RtzXtjbze1EFHEC-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DUPu_RtzXtjbze1EFHEC-28" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.codecentric.de/20210310102806/nestjs-logo-social.png;" vertex="1" parent="1">
+          <mxGeometry x="894.01" y="735" width="250" height="130.77" as="geometry" />
+        </mxCell>
+        <mxCell id="DUPu_RtzXtjbze1EFHEC-33" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://itcomunicacion.com.mx/wp-content/uploads/2018/01/apache-kafka.png;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="406.08" width="232.2" height="232.2" as="geometry" />
+        </mxCell>
+        <mxCell id="DUPu_RtzXtjbze1EFHEC-34" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://magmax.org/images/rabbitmq.png;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="690" width="269.09" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="DUPu_RtzXtjbze1EFHEC-36" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/HDInsight.svg;fillColor=#4484B5;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1090" width="177.08" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="DUPu_RtzXtjbze1EFHEC-44" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#8F8F8F;strokeWidth=3;" edge="1" parent="1" source="DUPu_RtzXtjbze1EFHEC-38" target="DUPu_RtzXtjbze1EFHEC-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DUPu_RtzXtjbze1EFHEC-46" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#8F8F8F;strokeWidth=3;" edge="1" parent="1" source="DUPu_RtzXtjbze1EFHEC-38" target="DUPu_RtzXtjbze1EFHEC-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DUPu_RtzXtjbze1EFHEC-38" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Resource_Graph_Explorer.svg;fillColor=#4484B5;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="616.77" width="49" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DUPu_RtzXtjbze1EFHEC-47" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Kubernetes.svg;fillColor=#4484B5;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-175" width="178.13" height="171" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
